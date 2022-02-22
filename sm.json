@@ -1,0 +1,6 @@
+{
+	"apiEndpoint": "https://ignewsdemo.prismic.io/api/v2",
+	"libraries": [
+		"@/slices"
+	]
+}
